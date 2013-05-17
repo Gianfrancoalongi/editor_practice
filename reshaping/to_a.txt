@@ -1,0 +1,20 @@
+
+       ADDBUTTON ALLCHAN   ALLCHANL  ALLSERV   AWAY
+       BACK      BAN       CHANOPT   CHARSET   CLEAR
+       CLOSE     COUNTRY   CTCP      CYCLE     DCC
+       DEBUG     DEHOP     DELBUTTON DEOP      DEVOICE
+       DISCON    DNS       ECHO      EXEC      EXECCONT
+       EXECKILL  EXECSTOP  EXECWRITE FLUSHQ    GATE
+       GETFILE   GETINT    GETSTR    GHOST     GUI
+       HELP      HOP       ID        IGNORE    INVITE
+       JOIN      KICK      KICKBAN   KILLALL   LAGCHECK
+       LASTLOG   LIST      LOAD      MDEHOP    MDEOP
+       ME        MENU      MKICK     MODE      MOP
+       MSG       NAMES     NCTCP     NEWSERVER NICK
+       NOTICE    NOTIFY    OP        PART      PING
+       QUERY     QUIT      QUOTE     RECONNECT RECV
+       SAY       SEND      SERVCHAN  SERVER    SET
+       SETCURSOR SETTAB    SETTEXT   SPLAY     TOPIC
+       TRAY      UNBAN     UNIGNORE  UNLOAD    URL
+       USELECT   USERLIST  VOICE     WALLCHAN  WALLCHOP
+   
