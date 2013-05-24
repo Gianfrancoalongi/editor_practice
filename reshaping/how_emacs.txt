@@ -1,0 +1,31 @@
+-----a
+M-<
+down
+C-space RET
+C-u 18 down
+C-u 16 M-x increase-left-margin RET
+
+-----b
+M-<
+down
+C-space RET
+C-u 18 down
+C-u 3 right 
+C-x r d
+
+-----c
+M-<
+C-k
+M-x replace-regexp RET
+[ ]+ RET
+ RET
+M-<
+M-x replace-regexp RET
+C-q C-j RET
+RET
+C-a
+delete
+
+ 
+
+
