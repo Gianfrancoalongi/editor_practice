@@ -28,3 +28,13 @@ M-<
 C-e
 space
 C-x r y
+
+------------- c
+M-<
+down
+C-space
+C-u 6 down
+C-w
+C-u 12 down
+C-y
+
