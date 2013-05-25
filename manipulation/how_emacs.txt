@@ -1,0 +1,30 @@
+------------- a
+M-<
+down
+M-f
+M-b
+C-space
+C-u 17 down
+C-f C-f
+right
+C-x r k
+M-<
+down
+C-e
+space
+C-x r y
+
+------------- b
+M-<
+down
+M-f
+M-b
+C-space
+C-u 17 down
+C-u 3 M-f
+right
+C-x r k
+M-<
+C-e
+space
+C-x r y
