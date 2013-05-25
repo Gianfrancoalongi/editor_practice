@@ -38,3 +38,12 @@ C-w
 C-u 12 down
 C-y
 
+------------- d
+M-<
+C-u 13 down
+C-space
+C-u 6
+C-w
+M-<
+C-y
+
