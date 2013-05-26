@@ -1,0 +1,32 @@
+------------- a with number register
+M-<
+C-u 1 C-x r n a
+C-x (
+down
+M-f
+space 
+(make-string 
+space
+C-x r i a
+M-f
+space
+?a)
+C-a
+M-f
+C-space
+C-e
+C-u C-x C-e
+C-a
+C-s (
+left
+C-space
+C-s )
+right
+C-w
+C-e
+backspace
+C-a
+C-x r + a
+C-x )
+C-u 9 C-x e
+
