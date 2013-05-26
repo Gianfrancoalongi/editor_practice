@@ -77,9 +77,9 @@ C-e
 M-% space RET
 C-q C-j RET
 !
-space
+RET
 C-e
-enter
+RET
 C-x )
 C-u 17 C-x e
 C-x (
