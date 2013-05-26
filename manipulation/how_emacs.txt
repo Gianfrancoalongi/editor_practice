@@ -66,3 +66,33 @@ C-x )
 C-a
 C-u 7 down
 C-x e
+
+------------- f
+M-<
+C-x (
+down
+C-u 3 delete
+C-space 
+C-e
+M-% space RET
+C-q C-j RET
+!
+space
+C-e
+enter
+C-x )
+C-u 17 C-x e
+C-x (
+M-<
+C-u 6 down
+C-k
+C-space
+C-u 4 down
+C-e
+C-x r k
+C-u 5 backspace
+C-u 4 up
+space
+C-x r y
+C-x )
+C-u 15 C-x e
