@@ -30,3 +30,20 @@ C-x r + a
 C-x )
 C-u 9 C-x e
 
+------------- a with yank and copy
+M-<
+C-space 
+C-space
+M-w
+C-x (
+down
+M-f
+space
+a
+C-y
+C-space
+M-b
+M-w
+C-a
+C-x )
+C-u 9 C-x e
