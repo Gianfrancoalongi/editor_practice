@@ -47,3 +47,22 @@ C-w
 M-<
 C-y
 
+------------- e
+M-<
+down
+C-x (
+M-f
+M-f
+C-space
+C-u 5 down
+C-e
+C-x r k
+M-b
+M-b
+C-u 5 up
+left
+C-x r y
+C-x )
+C-a
+C-u 7 down
+C-x e
