@@ -64,3 +64,32 @@ M-b
 backspace
 C-a
 C-x )
+
+
+------------- b
+M-<
+C-u 10 down
+(princ (number-sequence 
+M-f
+space
+111 ))
+C-u C-x C-e
+C-space
+C-s (
+C-r
+C-k
+backspace
+C-s (
+C-r
+C-space
+C-a
+C-w
+delete
+space
+C-space
+C-e
+M-%
+space RET
+C-q C-j space RET
+! 
+
