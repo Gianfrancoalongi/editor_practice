@@ -47,3 +47,20 @@ M-w
 C-a
 C-x )
 C-u 9 C-x e
+
+------------- a using the number in the column
+M-<
+C-x (
+down
+C-k
+C-y
+space
+C-u M-:
+C-y
+space
+?a) RET
+backspace
+M-b
+backspace
+C-a
+C-x )
