@@ -93,3 +93,27 @@ space RET
 C-q C-j space RET
 ! 
 
+------------- b (using mapcar)
+M-<
+C-u 10 down
+C-k
+(mapcar 'print (number-sequence 
+C-y
+space 
+111 ))
+C-u C-x C-e
+C-space
+C-a
+C-k
+C-x (
+up
+up
+C-k
+C-x )
+C-u 101
+C-x e
+C-k
+C-space
+C-u 111 down
+C-u 1 M-x increase-left-margin RET
+
