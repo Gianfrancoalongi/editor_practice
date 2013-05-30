@@ -117,3 +117,11 @@ C-space
 C-u 111 down
 C-u 1 M-x increase-left-margin RET
 
+------------- c
+M-<
+M-x replace-regexp
+[0-9]+ RET
+\,(1+ (string-to-number \&)) RET
+
+
+
