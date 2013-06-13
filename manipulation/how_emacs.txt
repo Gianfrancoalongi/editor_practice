@@ -5,7 +5,7 @@ M-f
 M-b
 C-space
 C-u 17 down
-C-f C-f
+M-f M-f
 right
 C-x r k
 M-<
