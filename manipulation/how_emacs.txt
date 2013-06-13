@@ -1,6 +1,5 @@
 ------------- a
 M-<
-down
 M-f
 M-b
 C-space
