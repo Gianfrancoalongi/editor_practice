@@ -1,0 +1,15 @@
+this is a text with some similar stuff in it, but in different places.
+the intent of the text is to help as basic data for several different types
+of manipulation that can be conducted with editors.
+for example, capitalizing the first letter of every row regardless of if 
+it is right to do or not (the outlook transformation).
+Or maybe capitalizing all words that match a specific pattern, or all 
+letters of words with numbers emedded within them?
+Who knows.
+at the moment it is hard to tell, but I think that I will add some numbers
+into this text - as for example, I estimate that I drink maybe 5 to 7 
+cups of coffee per day at work.
+this is too much, granted, I do get ill when I pas this threshold, sometimes
+I can feel sweaty and nauseous when I drink too many coffees. 
+This usually happens at 15:00 and onward, just like the Vindaloo stomach 
+ache. 
