@@ -93,3 +93,62 @@ space RET
 C-q C-j space RET
 ! 
 
+------------- b (using mapcar)
+M-<
+C-u 10 down
+C-k
+(mapcar 'print (number-sequence 
+C-y
+space 
+111 ))
+C-u C-x C-e
+C-space
+C-a
+C-k
+C-x (
+up
+up
+C-k
+C-x )
+C-u 101
+C-x e
+C-k
+C-space
+C-u 111 down
+C-u 1 M-x increase-left-margin RET
+
+------------- c
+M-<
+M-x replace-regexp
+[0-9]+ RET
+\,(1+ (string-to-number \&)) RET
+
+------------- d (using macro and copy/yank)
+M-<
+down
+C-x (
+M-f
+M-b
+C-k
+C-y
+space
+C-y
+C-space
+M-b
+M-x replace-regexp
+[0-9]+ RET
+\,(1+ (string-to-number \&)) RET
+M-b
+C-x )
+C-x C-k b 0
+C-u 99 C-x e
+C-a
+C-x (
+down
+C-u 100 C-x C-k 0
+C-a
+C-x )
+C-u 8 C-x e
+
+
+
