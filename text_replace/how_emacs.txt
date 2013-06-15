@@ -7,3 +7,9 @@ down
 C-x )
 C-u 32
 C-x e
+
+----- a (using replace regexp)
+M-<
+M-x replace-regexp RET
+^. RET
+\,(capitalize \&) RET
