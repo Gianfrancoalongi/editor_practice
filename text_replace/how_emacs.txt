@@ -1,0 +1,9 @@
+---- a (using macro and capitalization)
+M-<
+C-x (
+M-c
+C-a
+down
+C-x )
+C-u 32
+C-x e

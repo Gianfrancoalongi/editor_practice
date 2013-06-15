@@ -1,0 +1,31 @@
+This is a text with some similar stuff in it, but in different places.
+The intent of the text is to help as basic data for several different types
+Of manipulation that can be conducted with editors.
+For example, capitalizing the first letter of every row regardless of if 
+It is right to do or not (the outlook transformation).
+Or maybe capitalizing all words that match a specific pattern, or all 
+Letters of words with numbers emedded within them?
+Who knows.
+At the moment it is hard to tell, but I think that I will add some numbers
+Into this text - as for example, I estimate that I drink maybe 5 to 7 
+Cups of coffee per day at work.
+This is too much, granted, I do get ill when I pas this threshold, sometimes
+I can feel sweaty and nauseous when I drink too many coffees. 
+This usually happens at 15:00 and onward, just like the Vindaloo stomach 
+Ache. 
+This text is obviously not enough, although I do now that it can be
+Hard for people to see the differences for the different steps, 
+I assume that they know how to use diff or similar tools to easily
+Identity where the changes are.
+This is also a skill that needs to be mastered, for this purpose I might
+Add exercises for pure practice of finding files, finding differences in files,
+Or differences in structures.
+Lastly, something that I see every day is that colleagues are not truly comfortable with 
+The tools they use. I want us all to feel at home with all commands we have
+At our disposal, we should know and learn how to wield the power at
+Our fingertips, and how to create the power we are missing.
+As developers, and more specifically Craftsmen, we can craft our own
+Tools when we miss some, but also know what exists, and avoid 
+Reinventing the wheel purely based on ignorance, if not for training purposes,
+It is unprofessional to write a tool that does something that another tool 
+Already does.
