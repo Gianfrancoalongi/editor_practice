@@ -18,4 +18,10 @@ M-x replace-regexp RET
 M-<
 M-x capitalize-region RET
 
-
+----- b (using macro and capitalization)
+C-x (
+M-c
+M-f
+M-b
+C-x )
+C-u 1000 C-x e
