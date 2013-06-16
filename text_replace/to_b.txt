@@ -1,0 +1,31 @@
+This Is A Text With Some Similar Stuff In It, But In Different Places.
+The Intent Of The Text Is To Help As Basic Data For Several Different Types
+Of Manipulation That Can Be Conducted With Editors.
+For Example, Capitalizing The First Letter Of Every Row Regardless Of If 
+It Is Right To Do Or Not (The Outlook Transformation).
+Or Maybe Capitalizing All Words That Match A Specific Pattern, Or All 
+Letters Of Words With Numbers Emedded Within Them?
+Who Knows.
+At The Moment It Is Hard To Tell, But I Think That I Will Add Some Numbers
+Into This Text - As For Example, I Estimate That I Drink Maybe 5 To 7 
+Cups Of Coffee Per Day At Work.
+This Is Too Much, Granted, I Do Get Ill When I Pas This Threshold, Sometimes
+I Can Feel Sweaty And Nauseous When I Drink Too Many Coffees. 
+This Usually Happens At 15:00 And Onward, Just Like The Vindaloo Stomach 
+Ache. 
+This Text Is Obviously Not Enough, Although I Do Now That It Can Be
+Hard For People To See The Differences For The Different Steps, 
+I Assume That They Know How To Use Diff Or Similar Tools To Easily
+Identity Where The Changes Are.
+This Is Also A Skill That Needs To Be Mastered, For This Purpose I Might
+Add Exercises For Pure Practice Of Finding Files, Finding Differences In Files,
+Or Differences In Structures.
+Lastly, Something That I See Every Day Is That Colleagues Are Not Truly Comfortable With 
+The Tools They Use. I Want Us All To Feel At Home With All Commands We Have
+At Our Disposal, We Should Know And Learn How To Wield The Power At
+Our Fingertips, And How To Create The Power We Are Missing.
+As Developers, And More Specifically Craftsmen, We Can Craft Our Own
+Tools When We Miss Some, But Also Know What Exists, And Avoid 
+Reinventing The Wheel Purely Based On Ignorance, If Not For Training Purposes,
+It Is Unprofessional To Write A Tool That Does Something That Another Tool 
+Already Does.

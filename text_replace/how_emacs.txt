@@ -13,3 +13,9 @@ M-<
 M-x replace-regexp RET
 ^. RET
 \,(capitalize \&) RET
+
+----- b (using capialize-region)
+M-<
+M-x capitalize-region RET
+
+
