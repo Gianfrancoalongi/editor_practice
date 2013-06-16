@@ -14,7 +14,7 @@ M-x replace-regexp RET
 ^. RET
 \,(capitalize \&) RET
 
------ b (using capialize-region)
+----- b (using capitalize-region)
 M-<
 M-x capitalize-region RET
 
