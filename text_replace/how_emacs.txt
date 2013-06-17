@@ -32,3 +32,7 @@ M-x replace-regexp RET
 .* RET
 \,(capitalize \&) RET
 
+----- c (using replace regexp)
+M-x replace-regexp RET
+.* RET
+ \,(concat (reverse (string-to-list \&))) RET
