@@ -29,6 +29,6 @@ C-u 1000 C-x e
 ----- b (using replace regexp)
 M-<
 M-x replace-regexp RET
-..* RET
+.* RET
 \,(capitalize \&) RET
 
