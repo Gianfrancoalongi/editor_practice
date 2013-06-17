@@ -41,9 +41,9 @@ C-y
 M-<
 C-u 13 down
 C-space
-C-u 6
+C-u 6 down
 C-w
-M-<
+C-u 12 up
 C-y
 
 ------------- e
