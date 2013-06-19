@@ -36,3 +36,11 @@ M-x replace-regexp RET
 M-x replace-regexp RET
 .* RET
  \,(concat (reverse (string-to-list \&))) RET
+
+
+----- d (using search replace)
+M-<
+M-%
+. RET
+. C-q C-j RET
+!
