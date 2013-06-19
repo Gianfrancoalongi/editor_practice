@@ -44,3 +44,11 @@ M-%
 . RET
 . C-q C-j RET
 !
+
+----- d (using macro)
+M-<
+C-x (
+C-s . RET
+RET
+C-x )
+C-u 100 C-x e
