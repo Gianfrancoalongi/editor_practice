@@ -52,3 +52,10 @@ C-s . RET
 RET
 C-x )
 C-u 100 C-x e
+
+
+----- e
+M-<
+M-x replace-regexp RET
+\(\w+\)\(\w) RET
+\1\,(capitalize \2)

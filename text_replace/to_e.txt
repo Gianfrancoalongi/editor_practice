@@ -1,0 +1,31 @@
+thiS iS a texT witH somE similaR stufF iN iT, buT iN differenT placeS.
+thE intenT oF thE texT iS tO helP aS basiC datA foR severaL differenT typeS
+oF manipulatioN thaT caN bE conducteD witH editorS.
+foR examplE, capitalizinG thE firsT letteR oF everY roW regardlesS oF iF 
+iT iS righT tO dO oR noT (thE outlooK transformatioN).
+OR maybE capitalizinG alL wordS thaT matcH a specifiC patterN, oR alL 
+letterS oF wordS witH numberS emeddeD withiN theM?
+WhO knowS.
+aT thE momenT iT iS harD tO telL, buT I thinK thaT I wilL adD somE numberS
+intO thiS texT - aS foR examplE, I estimatE thaT I drinK maybE 5 tO 7 
+cupS oF coffeE peR daY aT worK.
+thiS iS toO mucH, granteD, I dO geT ilL wheN I paS thiS thresholD, sometimeS
+I caN feeL sweatY anD nauseouS wheN I drinK toO manY coffeeS. 
+ThiS usuallY happenS aT 15:00 anD onwarD, jusT likE thE VindaloO stomacH 
+achE. 
+thiS texT iS obviouslY noT enougH, althougH I dO noW thaT iT caN bE
+harD foR peoplE tO seE thE differenceS foR thE differenT stepS, 
+I assumE thaT theY knoW hoW tO usE difF oR similaR toolS tO easilY
+identitY wherE thE changeS arE.
+thiS iS alsO a skilL thaT needS tO bE mastereD, foR thiS purposE I mighT
+adD exerciseS foR purE practicE oF findinG fileS, findinG differenceS iN fileS,
+oR differenceS iN structureS.
+lastlY, somethinG thaT I seE everY daY iS thaT colleagueS arE noT trulY comfortablE witH 
+thE toolS theY usE. I wanT uS alL tO feeL aT homE witH alL commandS wE havE
+aT ouR disposaL, wE shoulD knoW anD learN hoW tO wielD thE poweR aT
+ouR fingertipS, anD hoW tO creatE thE poweR wE arE missinG.
+aS developerS, anD morE specificallY CraftsmeN, wE caN crafT ouR owN
+toolS wheN wE misS somE, buT alsO knoW whaT existS, anD avoiD 
+reinventinG thE wheeL purelY baseD oN ignorancE, iF noT foR traininG purposeS,
+iT iS unprofessionaL tO writE a tooL thaT doeS somethinG thaT anotheR tooL 
+alreadY doeS.
