@@ -59,3 +59,10 @@ M-<
 M-x replace-regexp RET
 \(\w+\)\(\w) RET
 \1\,(capitalize \2)
+
+----- f
+M-<
+M-x replace-regexp RET
+\(\w)\(\w+\)\(\w) RET
+\1\3 RET
+
